@@ -1,0 +1,1 @@
+This is a placeholder file to ensure the Screenshots directory is tracked by git. 
